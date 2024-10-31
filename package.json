@@ -1,0 +1,16 @@
+{
+  "name": "orbitdb-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Gregory Reburn",
+  "license": "ISC",
+  "types": "types/index.d.ts",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
